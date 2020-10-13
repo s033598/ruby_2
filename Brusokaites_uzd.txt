@@ -1,0 +1,13 @@
+Sąlygos sakiniai
+Atlikti iki spalio 5 d. 
+1.	Parašykite programą, kuri pasakytų, ar studentas išlaikė egzaminą, kai įvedamas gautas pažymys. (Egzaminas yra išlaikytas, jei gautas įvertinimas yra didesnis kaip 5).
+2.	Parašykite programą, kuri įvedus tris skaičius, nustatytų, kuris iš jų yra didžiausias.
+3.	Parašykite programą, kuri, įvedus trijų kraštinių ilgius, nustatytų, ar iš jų galima sudaryti trikampį. Jei toks trikampis egzistuoja, reikėtų apskaičiuoti trikampio plotą ir nustatyti, ar jis yra lygiašonis, ar lygiakraštis ar įvairiakraštis.
+4.	Pardavėjas gauna atlygį už darbą pagal pardavimus. T.y. pardavęs prekių už <=5000 eurų, nuo šios sumos pardavėjas gauna 10 proc., pardavęs prekių daugiau kaip už 5000, bet ne daugiau nei 10000 eurų, nuo šios sumos jis gauna 20 proc. Jei įvykdo pardavimų už >10000 eur., gauna 25 proc. nuo pardavimų sumos. Parašykite programą, kuri paskaičiuotų, kokį atlygį gaus pardavėjas, kuomet žinoma jo įvykdytų pardavimų suma.
+5.	Parašykite programą, kuri, įvedus sunaudotos elektros energijos kiekį, pateiktų sąskaitą salos gyventojams pagal tokius įkainius:
+Pirmi 50 kW kainuoja  0.5 eur/kW
+Viršijus 50 kW, kitiems 100 kW kaina 0.75 eur/kW.
+Dar sekančiam 100 kW taikomas tarifas 1.20 eur/kW
+Viršijus 250 kW, 1.50 eur/kW
+Taip pat taikomas 20 proc. administravimo mokestis.
+6.	Suprogramuokite robotuką taip, kad šis neatsitrenktų į priešais važiuojantį kitą tokį patį robotuką. Susitikę pusiaukelėje robotukai turėtų autonomiškai apsilenkti.
